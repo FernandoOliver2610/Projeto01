@@ -1,11 +1,15 @@
 📊 Análise de Dados com Python: Exploração e Visualização com Pandas e Matplotlib
 Este projeto realiza uma análise exploratória de dados utilizando Python, com foco na manipulação de dados usando Pandas e na criação de visualizações com Matplotlib. O objetivo é extrair insights valiosos a partir de um conjunto de dados e apresentar as informações de forma clara e visualmente intuitiva.
 
+
+ 
 🚀 Tecnologias Utilizadas
 ✅ Python 🐍
 ✅ Pandas 🏷️
 ✅ Matplotlib 📊
 ✅ Jupyter Notebook 📓
+
+
 
 📥 Como Executar o Projeto
 1️⃣ Clone o repositório:
