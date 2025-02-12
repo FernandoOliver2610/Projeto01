@@ -40,11 +40,17 @@ git clone https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO.git
 
 
 
+
+
+
 sh
 Copiar
 Editar
 pip install pandas matplotlib jupyter
 3️⃣ Abra o Jupyter Notebook:
+
+
+
 
 
 
@@ -58,9 +64,13 @@ jupyter notebook
 
 
 
+
+
 📈 Exemplo de Uso e Prints
 🔹 Gráfico de Vendas ao Longo do Tempo
 📌 A análise mostra a evolução das vendas diárias e destaca a média de vendas com uma linha de referência.
+
+
 
 
 
@@ -70,14 +80,22 @@ jupyter notebook
 
 
 
+
+
+
 🔹 Insights Extraídos
 📊 A média de vendas foi de  291.00 unidades/dia
 📅 O dia com maior venda foi 2024-01-10 com 400 unidades 
 
 
 
+
+
 📌 Link do Projeto no Portfólio
 🔗 Meu Portfólio
+
+
+
 
 
 
