@@ -35,7 +35,7 @@ Este projeto realiza uma análise exploratória de dados utilizando Python, com 
 sh
 Copiar
 Editar
-git clone https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO.git
+git clone https://github.com/FernandoOliver2610/Projeto01.git
 2️⃣ Instale as dependências:
 
 
