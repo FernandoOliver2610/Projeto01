@@ -71,8 +71,8 @@ jupyter notebook
 
 
 🔹 Insights Extraídos
-📊 A média de vendas foi de X unidades/dia
-📅 O dia com maior venda foi YYYY-MM-DD com Z unidades
+📊 A média de vendas foi de  291.00 unidades/dia
+📅 O dia com maior venda foi 2024-01-10 com 400 unidades 
 
 
 
