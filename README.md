@@ -92,7 +92,7 @@ jupyter notebook
 
 
 📌 Link do Projeto no Portfólio
-🔗 Meu Portfólio
+🔗 Meu Portfólio(https://fernandooliver2610.github.io/FernandoOliveira2610/)
 
 
 
