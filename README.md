@@ -5,8 +5,17 @@ Este projeto realiza uma análise exploratória de dados utilizando Python, com 
  
 🚀 Tecnologias Utilizadas
 ✅ Python 🐍
+
+
+
 ✅ Pandas 🏷️
+
+
+
 ✅ Matplotlib 📊
+
+
+
 ✅ Jupyter Notebook 📓
 
 
